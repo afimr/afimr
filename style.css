@@ -189,4 +189,12 @@ text{
 
 .laman_tugasJavascript{
     text-align: center;
+    font-family: arial;
+    font-size: 15px;
+    color: white;
+}
+
+.laman_tugasOop{
+    text-align: center;
+    font-family: arial;
 }
