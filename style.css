@@ -2,7 +2,6 @@ body{
     background-color: rgb(145, 90, 117);
 }
 
-
 .container {
     width: 1200px;
     margin: auto;
@@ -197,4 +196,9 @@ text{
 .laman_tugasOop{
     text-align: center;
     font-family: arial;
+}
+
+.covid19{
+    text-align: center;
+    font-family: Arial;
 }
